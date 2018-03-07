@@ -1,0 +1,11 @@
+.idea
+.classpath
+.project
+*.iml
+wrapper
+target
+grailsw*
+.slcache/
+out/
+scrappy.iml
+*.log
